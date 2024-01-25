@@ -63,3 +63,10 @@
     font-size: 30px;
     letter-spacing:3px;
   }
+
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
