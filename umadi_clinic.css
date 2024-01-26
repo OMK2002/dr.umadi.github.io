@@ -1,0 +1,14 @@
+h2{
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color:#FF896A;
+    font-size: 45px;
+    letter-spacing:3px;
+  }
+
+  @media (max-width: 768px) {
+    .card {
+        width: 100%;
+    }
+}
