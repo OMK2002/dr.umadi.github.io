@@ -64,9 +64,13 @@
     letter-spacing:3px;
   }
 
-  .footer {
+  #footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-  }
+    background-color: #343a40; /* Dark background color */
+    color: #adb5bd; /* Lighter text color */
+    padding: 20px 0; /* Adjust padding as needed */
+    text-align: center;
+}
   
